@@ -1,14 +1,21 @@
-# 🎓 IFMG — Python & Big Data | Trilha de 160h
+<p align="center">
+  <img src="assets/logos/ifmg-logo.png" alt="Instituto Federal de Minas Gerais — IFMG" width="140">
+</p>
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Carga Horária](https://img.shields.io/badge/carga%20horária-160h-blue)
-![Instituição](https://img.shields.io/badge/instituição-%2BIFMG-green)
-![Python](https://img.shields.io/badge/Python-Learning%20Path-3776AB?logo=python&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big%20Data-Learning%20Path-orange)
+<h1 align="center">🎓 IFMG — Python & Big Data | Trilha de 160h</h1>
 
-Repositório central da minha trilha integrada de formação em **Python, Big Data e Mineração de Dados**, realizada por meio da plataforma **+IFMG**, do Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/carga%20horária-160h-blue" alt="Carga horária">
+  <img src="https://img.shields.io/badge/instituição-%2BIFMG-green" alt="Instituição">
+  <img src="https://img.shields.io/badge/Python-Learning%20Path-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Big%20Data-Learning%20Path-orange" alt="Big Data">
+</p>
 
-A trilha possui **160 horas de formação**, distribuídas em quatro cursos de 40 horas, organizados de maneira progressiva desde os fundamentos da programação em Python até conceitos relacionados a Big Data e Mineração de Dados.
+<p align="center">
+  Trilha integrada de formação em <strong>Python, Big Data e Mineração de Dados</strong>,
+  realizada por meio da plataforma <strong>+IFMG</strong>.
+</p>
 
 ---
 
